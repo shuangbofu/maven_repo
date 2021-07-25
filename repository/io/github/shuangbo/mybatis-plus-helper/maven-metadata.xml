@@ -1,11 +1,11 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <metadata>
-  <groupId>cn.shuangbofu</groupId>
+  <groupId>io.github.shuangbo</groupId>
   <artifactId>mybatis-plus-helper</artifactId>
   <versioning>
     <versions>
-      <version>1.0-SNAPSHOT</version>
+      <version>1.0.0-SNAPSHOT</version>
     </versions>
-    <lastUpdated>20210725063240</lastUpdated>
+    <lastUpdated>20210725065425</lastUpdated>
   </versioning>
 </metadata>
